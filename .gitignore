@@ -1,0 +1,9 @@
+test1/.vsconfig
+test1/Assembly-CSharp.csproj
+test1/.vs/
+test1/Library/
+test1/Logs/
+test1/obj/
+test1/Packages/
+test1/ProjectSettings/
+test1/UserSettings/
